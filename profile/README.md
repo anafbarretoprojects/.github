@@ -5,9 +5,8 @@ Este portfólio tem como objetivo separar os trabalhos acadêmicos dos meus proj
 
 
 ### Sobre mim: 
-⚠️ Em busca da minha primeira oportunidade na área de tecnologia. <br>
+💻 Desenvolvedora Python. <br>
 🎓 Formada em Análise e desenvolvimento de sistemas pela Fatec Franca. <br>
-🏠 Atualmente morando São Paulo capital. <br> 
 📃 Escrevo alguns artigos para o <a href="https://dev.to/anafbarreto"> Dev.to</a>.<br>
 
 
